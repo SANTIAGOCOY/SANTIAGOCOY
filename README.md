@@ -7,12 +7,16 @@ MI FILOSOFIA DE VIDA ES **PARCHARSE**
 
 
 HABILIDADES
-INGLES A MEDIAS 
+
+INGLES A MEDIAS
+
 APRENDIZAJE AGIL
-ANALISIS 
+
+CAPACIDAD DE ANALISIS
+
 BUEN TRABAJO EN EQUIPO 
 
-
+BUEN LIDER
 <!--
 **SANTIAGOCOY/SANTIAGOCOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
